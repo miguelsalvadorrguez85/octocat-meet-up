@@ -1,4 +1,3 @@
-# RIDMI
 
 ✍️ Nombre del equipo: 
         OctoCat Patrol            
